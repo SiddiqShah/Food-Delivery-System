@@ -162,7 +162,7 @@ Home Screen → Cart → Checkout → Payment → Confirmation
 
 # 📞 Contact
 
-Muhammad Siddiq Shah - shahsiddiq004email@gmail.com
+Muhammad Siddiq Shah - shahsiddiq004@gmail.com
 
 
 
