@@ -164,7 +164,7 @@ Home Screen → Cart → Checkout → Payment → Confirmation
 
 Muhammad Siddiq Shah - shahsiddiq004email@gmail.com
 
-Project Link: [https://github.com/yourusername/food_delivery_system](https://github.com/yourusername/food_delivery_system)
+
 
 # 🙏 Acknowledgments
 
